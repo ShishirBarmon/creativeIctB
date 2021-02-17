@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641461015041",
+    "firebase_url": "https://creativeictbook.firebaseio.com",
+    "project_id": "creativeictbook",
+    "storage_bucket": "creativeictbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641461015041:android:f4455023189f065000a600",
+        "android_client_info": {
+          "package_name": "com.example.creativeictbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641461015041-s182vkh1p8fnmmr4he2ddert438a56hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.creativeictbook",
+            "certificate_hash": "2c8747f6f82b416aa830a243a4c3eb7f846cb073"
+          }
+        },
+        {
+          "client_id": "641461015041-lc32c9dt9hqm09h8cermho2j9jb3dt51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxVY_fsK7Eq99jj1Y_wkh7egnhHsewRLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641461015041-lc32c9dt9hqm09h8cermho2j9jb3dt51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

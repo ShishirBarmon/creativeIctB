@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#F7FAF7"
+    android:orientation="vertical"
+    tools:context=".help">
+
+  <ImageView
+       android:id="@+id/helpImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+     android:src="@drawable/anupomsir"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+       />
+
+    <TextView
+        android:id="@+id/helpName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Anupam Halder"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="40dp"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:id="@+id/helpDesignation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Associate Professor"
+        android:layout_marginLeft="125dp"
+        android:layout_marginTop="15dp"
+        android:textSize="20dp"
+        />
+    <TextView
+    android:id="@+id/helpContact"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="anupam_hal@yahoo.com"
+    android:layout_marginLeft="110dp"
+    android:layout_marginTop="15dp"
+    android:textSize="20dp"
+    />
+
+    <TextView
+    android:id="@+id/helpCollege"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Dhaka City College"
+    android:layout_marginLeft="132dp"
+    android:layout_marginTop="15dp"
+    android:textSize="20dp"
+    />
+
+
+
+
+
+</LinearLayout>

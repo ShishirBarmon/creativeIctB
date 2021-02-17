@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CreativeICTBook</string>
+
+    <string name="SignIn_name">Sign In</string>
+    <string name="signUpTextView"> Are you not registered? Sign Up</string>
+
+    <string name="SignUp_name"> Sign Up</string>
+    <string name="signInTextView"> Are you already registered? Sign In</string>
+    <string name="title_activity_suchi_patra">SuchiPatra</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Creative ICT Book</string>
+    <string name="nav_header_subtitle">This App for HSC students</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="action_about">About us</string>
+    <string name="action_contact">Contact us</string>
+    <string name="action_video">Tutorial Video</string>
+    <string name="action_notes">Notes</string>
+    <string name="action_help">Help</string>
+    <string name="action_comment">Comment</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">video</string>
+    <string name="menu_notes">Notes</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_contact">Contact Us</string>
+    <string name="menu_help">Help</string>
+
+</resources>
